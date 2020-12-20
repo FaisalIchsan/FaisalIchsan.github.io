@@ -41,3 +41,8 @@ function transit() {
     // Proses-5. Menambahkan class 'last-show' dari id yang didapatkan dalam proses ke 3
     document.getElementById(getid).classList.add("list-show");
 }
+
+
+  
+
+
