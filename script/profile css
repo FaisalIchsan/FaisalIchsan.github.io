@@ -1,3 +1,15 @@
+/*	
+    Author   : Al Muhdil Karim
+    Site     : https://almudhilkarim.com
+    github   : https://github.com/jasonvortech/
+    telegram : @rocknroot
+    this template is used for learning purposes on course "basic web development" at karims public library 
+    https://almuhdilkarim.com
+*/
+
+/* =============================== */
+/* Reset  */
+/* =============================== */
 * { margin:0; padding: 0; }
 
 
