@@ -41,7 +41,7 @@
         </nav>
         </header> <!-- end header -->
         <ul id="biografi" class="list list-hide">
-                <p class="biografi">Saya Faisal Nur Ichsan, mahasiswa aktif semester 3 UIN Syarif Hidayatullah Jakarta. Saya anak pertama dari dua bersaudara, lahir di Depok 1 Desember 2000. Memulai pendidikan pada tahun 2007-2013 di SDN Cipedak 05. Dilanjutkan tingkat SMP pada tahun 2013-2016, dan menyelesaikan pendidikan SMA pada tahun 2019. Dan sekarang sedang berjuang kuliah di UIN Syarif Hidayatullah Jakarta.</p>
+                <p class="biografi">Saya mahasiswa aktif semester 5 dengan basic keilmuan Ilmu Perpustakaan..</p>
                 
         </ul>
         <ul id="biografi" class="list">
@@ -54,7 +54,7 @@
 
         </ul>
         <ul id="home" class="list list-hide">
-            <p class="home">Haii!! Selamat Datang di Website Pribadi Faisalichsan. Website Ini Berisi Beberapa Informasi Data Pribadi Saya. Have You Enjoyedd
+            <p class="home">Selamat Datang di Website Pribadi Faisalichsan. Have u Enjoyed!!
             </p>
 
         </ul>
@@ -88,7 +88,7 @@
                 <div>
                     <p class="list-judul">Strata 1</p>
                     <p class="list-keterangan">
-                        Mahasiswa Aktif Semester 3 UIN Syarif Hidayatullah Jakarta Prodi Ilmu Perpustakaan
+                        Mahasiswa Aktif Semester 5 UIN Syarif Hidayatullah Jakarta Prodi Ilmu Perpustakaan
                     </p>    
                 </div>
             </li>
@@ -114,7 +114,7 @@
                     </a>                    
                 </li>
                 <li>
-                    <a target="_blank" class="kontainer-sosmed" href="https://www.linkedin.com/">
+                    <a target="_blank" class="kontainer-sosmed" href="https://www.linkedin.com/in/faisal-nur-ichsan-1881b8218/">
                         <img class="icon-sosmed" src="linkedin.png" alt="linkedin">
                     </a>                    
                 </li>
